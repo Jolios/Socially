@@ -1,5 +1,3 @@
 # Socially
-A simple twitter clone with support for messaging made with pure php
+Social Media project like Twitter with php .... my first web project :-)
 
-# Link
-<http://socially.42web.io/>
